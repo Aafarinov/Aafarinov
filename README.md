@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aafarinov
+- 👋 Hi, I’m Anatolii
 - 👀 I’m interested in iOS programming
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate with big company as a trainee/junior developer to improove my skills
