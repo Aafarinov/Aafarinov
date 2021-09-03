@@ -6,7 +6,7 @@
 - 
 -  My phone number:        +38095 60 18461, 
 -  My LinkedIn profile:    linkedin.com/in/anatolii-afarinov-863b0a208", 
--  My telegramm:           @AnatoliiAfarinov
+-  My telegramm:                @AnatoliiAfarinov
 -  My email:               aafarinov@gmail.com
 -  My Skype:               aafarinov
 
